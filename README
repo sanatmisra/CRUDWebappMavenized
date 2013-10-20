@@ -1,0 +1,6 @@
+This is a sample Spring webapp which has a MySQL database in the backend for data storage. The sql script for the database is also attached to the repository.
+Schema name: studentdb
+tables: student
+columns: student Id, firstname, lastname, yearLevel
+datatypes: int, varchar, varchar, int
+This schema with the table needs to be created before running the app.
